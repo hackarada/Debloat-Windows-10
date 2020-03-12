@@ -20,7 +20,6 @@ $apps = @(
     "Microsoft.BingWeather"
     #"Microsoft.FreshPaint"
     "Microsoft.GamingServices"
-    "Microsoft.Microsoft3DViewer"
     "Microsoft.MicrosoftOfficeHub"
     "Microsoft.MicrosoftPowerBIForWindows"
     "Microsoft.MicrosoftSolitaireCollection"
@@ -36,7 +35,7 @@ $apps = @(
     #"Microsoft.Windows.Photos"
     "Microsoft.WindowsAlarms"
     #"Microsoft.WindowsCalculator"
-    "Microsoft.WindowsCamera"
+    #"Microsoft.WindowsCamera"
     "microsoft.windowscommunicationsapps"
     "Microsoft.WindowsMaps"
     "Microsoft.WindowsPhone"
@@ -61,9 +60,6 @@ $apps = @(
     "Microsoft.OneConnect"
     "Microsoft.WindowsFeedbackHub"
 
-    # Creators Update apps
-    "Microsoft.Microsoft3DViewer"
-    #"Microsoft.MSPaint"
 
     #Redstone apps
     "Microsoft.BingFoodAndDrink"
